@@ -1,0 +1,13 @@
+.wrapper {
+  margin-top: 10px;
+  text-align: center;
+}
+
+.draw-area {
+  border: 1px solid #000;
+}
+
+.allClearButton {
+  display: block;
+  margin: 0 auto;
+}
