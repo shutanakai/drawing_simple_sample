@@ -28,6 +28,7 @@ window.addEventListener("load", () => {
   };
 
   const dragStart = () => {
+    context.beginPath();
     isDrag = true;
   };
 
